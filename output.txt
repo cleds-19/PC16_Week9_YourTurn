@@ -1,0 +1,10 @@
+Samsung Galaxy S24 - Battery: 80%
+Cannot use YouTube. Phone is locked.
+Samsung Galaxy S24 unlocked.
+Using YouTube. Battery remaining: 70%
+---
+Apple iPhone 15 - Battery: 50%
+Cannot use YouTube. Phone is locked.
+Apple iPhone 15 unlocked.
+Using YouTube. Battery remaining: 40%
+---
